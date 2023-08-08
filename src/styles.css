@@ -100,4 +100,9 @@ h2 {
 }
 .card {
   border-color: #112536;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-left: 20px;
 }
