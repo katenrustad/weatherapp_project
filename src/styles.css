@@ -83,7 +83,18 @@ h2 {
 }
 .current {
   background: #112536;
+  border-color: #000000;
+}
+.btn:hover {
+  color: #000000;
+  background: #beadbb;
+  border-color: #000000;
 }
 .newSearch {
-  background: #38598b;
+  background: #264e70;
+  border-color: #000000;
+}
+.newSearch.hover {
+  background: #beadbb;
+  border-color: #000000;
 }
